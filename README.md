@@ -40,8 +40,8 @@ To make it easy for you to get started, here's a list of recommended next steps:
 * Form Data Tambahan Fasilitas Kamar
 * Form Data Jenis Kamar
 * Form Fasilitas Pada Form Data Jenis Kamar
-* Laporan Penambahan Fasilitas Paling Sering Dipesan
-* Laporan Tipe Kamar Paling Sering Dipesan
+* Laporan Penambahan Fasilitas Paling Laris
+* Laporan Tipe Kamar Paling Laris
 
 ## Ignatius Odi
 * Form Reservasi
