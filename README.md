@@ -8,20 +8,20 @@
 
 ## Getting Started
 
-To make it easy for you to get started, here's a list of recommended next steps.
+To make it easy for you to get started, here's a list of recommended next steps:
 
-1. Download/Clone Github "https://github.com/aaronlinggo/Project-PCS.git"
-2. Add Database from folder database, import "db_hotel_samgun.sql"
-3. Setting ODBC "MySQL ODBC 8.0 ANSI Driver", Data Source Name : "db_hotel_samgun", Database "db_hotel_samgun"
+1. Download/clone Git "https://github.com/SamGun-Official/Project-PCS-Hotel-Harem-SamGun.git (Original repository is in "https://github.com/aaronlinggo/Project-PCS.git").
+2. Import database "db_hotel_samgun.sql" placed in **Database** folder.
+3. Setup for ODBC Driver is "MySQL ODBC 8.0 ANSI Driver", Data Source Name: "db_hotel_samgun", Database: "db_hotel_samgun".
 
-## Login for Actor
+## Login Data for Actor
 
 ### Resepsionis
 * Username : Kosmas
 * Password : 12345678
 
 ### Admin
-* Username : ExE
+* Username : SamGun_Official
 * Password : admin1234
 
 # Proporsi Kerja
@@ -39,9 +39,9 @@ To make it easy for you to get started, here's a list of recommended next steps.
 * Form Data Kamar
 * Form Data Tambahan Fasilitas Kamar
 * Form Data Jenis Kamar
-* Form Fasilitas di data jenis kamar
-* Laporan Penambahan Fasilitas yang paling sering di pesan
-* Laporan Tipe Kamar yang paling sering di pesan
+* Form Fasilitas Pada Form Data Jenis Kamar
+* Laporan Penambahan Fasilitas Paling Sering Dipesan
+* Laporan Tipe Kamar Paling Sering Dipesan
 
 ## Ignatius Odi
 * Form Reservasi
@@ -51,6 +51,6 @@ To make it easy for you to get started, here's a list of recommended next steps.
 
 ## Samuel Gunawan
 * Design UI/UX
-* Form Check In Out
+* Form Check In/Out
 * Database
 * Laporan Jumlah Tamu Perbulan
