@@ -10,9 +10,9 @@
 
 To make it easy for you to get started, here's a list of recommended next steps:
 
-1. Download/clone Git "https://github.com/SamGun-Official/Project-PCS-Hotel-Harem-SamGun.git (Original repository is in "https://github.com/aaronlinggo/Project-PCS.git").
-2. Import database "db_hotel_samgun.sql" placed in **Database** folder.
-3. Setup for ODBC Driver is "MySQL ODBC 8.0 ANSI Driver", Data Source Name: "db_hotel_samgun", Database: "db_hotel_samgun".
+1. Download/clone Git "https://github.com/SamGun-Official/Project-PCS-Hotel-Harem-SamGun.git (Original repository is in "https://github.com/aaronlinggo/Project-PCS.git")
+2. Import database "db_hotel_samgun.sql" from **Database** folder
+3. Setup for ODBC Driver is "MySQL ODBC 8.0 ANSI Driver", Data Source Name: "db_hotel_samgun", Database: "db_hotel_samgun"
 
 ## Login Data for Actor
 
