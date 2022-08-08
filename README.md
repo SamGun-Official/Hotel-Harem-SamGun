@@ -24,9 +24,9 @@ To make it easy for you to get started, here's a list of recommended next steps:
 * Username : SamGun_Official
 * Password : admin1234
 
-# Team Proportions
+## Team Proportions
 
-## Aaron Linggo Satria
+### Aaron Linggo Satria
 * Form Data Jenis Makanan
 * Form Data Menu Makanan
 * Form Data Resepsionis
@@ -34,7 +34,7 @@ To make it easy for you to get started, here's a list of recommended next steps:
 * Form Pemesanan Makanan
 * Laporan Makanan Paling Laris
 
-## Axcel Derian
+### Axcel Derian
 * Form Penambahan Fasilitas Kamar
 * Form Data Kamar
 * Form Data Tambahan Fasilitas Kamar
@@ -43,13 +43,13 @@ To make it easy for you to get started, here's a list of recommended next steps:
 * Laporan Penambahan Fasilitas Paling Laris
 * Laporan Tipe Kamar Paling Laris
 
-## Ignatius Odi
+### Ignatius Odi
 * Form Reservasi
 * Form Detail Reservasi
 * Form Pencatatan Data Tamu
 * Laporan Pemesanan Kamar Bulanan
 
-## Samuel Gunawan
+### Samuel Gunawan
 * Design UI/UX
 * Form Check In/Out
 * Database
