@@ -1,4 +1,4 @@
-# Project-PCS 2022
+# Project PCS 2022 (Hotel System)
 
 ## Anggota Kelompok
 * Aaron Linggo Satria - 220116898
