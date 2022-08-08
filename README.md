@@ -1,6 +1,6 @@
-# Project PCS 2022 (Hotel System)
+# Hotel System Project
 
-## Anggota Kelompok
+## Contributors
 * Aaron Linggo Satria - 220116898
 * Acxel Derian - 220116900
 * Ignatius Odi - 220116919
@@ -16,7 +16,7 @@ To make it easy for you to get started, here's a list of recommended next steps:
 
 ## Login Data for Actor
 
-### Resepsionis
+### Receptionist
 * Username : Kosmas
 * Password : 12345678
 
@@ -24,7 +24,7 @@ To make it easy for you to get started, here's a list of recommended next steps:
 * Username : SamGun_Official
 * Password : admin1234
 
-# Proporsi Kerja
+# Team Proportions
 
 ## Aaron Linggo Satria
 * Form Data Jenis Makanan
