@@ -1,4 +1,4 @@
-# Hotel System Project
+# Hotel Reception System Project
 
 ## Contributors
 * Aaron Linggo Satria - 220116898
