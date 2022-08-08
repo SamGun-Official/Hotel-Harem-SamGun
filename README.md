@@ -7,7 +7,6 @@
 * Samuel Gunawan - 220116928
 
 ## Getting Started
-
 To make it easy for you to get started, here's a list of recommended next steps:
 
 1. Download/clone Git "https://github.com/SamGun-Official/Project-PCS-Hotel-Harem-SamGun.git (Original repository is in "https://github.com/aaronlinggo/Project-PCS.git")
